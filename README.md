@@ -1,5 +1,4 @@
 # CMPE-255-Final-Project
-CMPE-255 Final Project
 
 Analyzing PlayerUnknown's BattleGrounds (PUBG) Gameplay Data to Predict
 the Winning percentage of players and Recommend Winning Strategies
