@@ -3,6 +3,8 @@
 Analyzing PlayerUnknown's BattleGrounds (PUBG) Gameplay Data to Predict
 the Winning percentage of players and Recommend Winning Strategies
 
+Dataset Link - https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
+
 In this project, we aim to predict the PUBG game’s players winning percentage by analyzing the
 game data collected over the years. We also plan to understand the relationship among the
 features and analyze the data to find important features so that the dimensionality of the data can
